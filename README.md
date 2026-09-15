@@ -48,10 +48,9 @@ heart-disease-risk-analysis/
 │
 ├── README.md
 ├── data/
-├── notebooks/
+├── report/
 ├── src/
-├── outputs/
-└── requirements.txt
+└── outputs/
 ```
 
 ## Skills Demonstrated
